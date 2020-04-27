@@ -1,13 +1,13 @@
-853628	Sai Vamsi Vanamali
-853768	Yacob Raju Yatham
-853770	Jyothi Swaroop Kanithi
-853629	Anusha Mahankali
-853630	Alekhya Akunuri
-853775	Kodandaramaiah Ravipati
-853776	Viswanadh Kotha
-853635	Deeksha Kuppireddy
-853636	Geethika Rajya Lakshmi Meka
-853779	Revanth Koundinya Chenagoni
+853628	Sai Vamsi Vanamali, Hyderabad Campus
+853768	Yacob Raju Yatham, Chennai Campus
+853770	Jyothi Swaroop Kanithi, Chennai Campus
+853629	Anusha Mahankali, Hyderabad Campus
+853630	Alekhya Akunuri, Hyderabad Campus
+853775	Kodandaramaiah Ravipati, Hyderabad Campus
+853776	Viswanadh Kotha, Chennai Campus
+853635	Deeksha Kuppireddy, Chennai Campus
+853636	Geethika Rajya Lakshmi Meka, Chennai Campus
+853779	Revanth Koundinya Chenagoni, Hyderabad Campus
 853780	Bharath Kumar V
 853781	Sai Naga Jyothi Yatagiri
 853650	Sai Anjali Potula
